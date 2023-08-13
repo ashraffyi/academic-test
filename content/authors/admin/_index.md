@@ -1,7 +1,7 @@
 ---
 title: Ashraf Hussain
 role: Data Scientist & Machine Learning Engineer
-avatar_filename: ashraf-blue2-1-.jpg
+avatar_filename: authors/admin/ashraf-blue2-1-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
