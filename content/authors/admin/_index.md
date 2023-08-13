@@ -13,7 +13,7 @@ social:
       header: false
     link: http://linkedin.com/in/ashrafhussain
     icon_pack: far
-    icon: fa-linkedin
+    icon: fab fa-linkedin
     label: linkedin profile
 organizations: []
 education:
