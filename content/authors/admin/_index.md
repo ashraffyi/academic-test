@@ -9,6 +9,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
+<<<<<<< HEAD
   - display:
       header: false
     link: http://linkedin.com/in/ashrafhussain
@@ -16,6 +17,32 @@ social:
     icon: linkedin
     label: linkedin profile
 organizations: []
+=======
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+>>>>>>> parent of 64c04a4 (Update Author “admin/_index”)
 education:
   courses:
     - course: PhD in Artificial Intelligence
